@@ -1,4 +1,4 @@
 # game
 This is the game I built
 <br/>
-Author-Eswari Madhumitha
+Author-Eswari Madhumitha (Apna Collge)
